@@ -1,6 +1,20 @@
-.ekart--header {
+/* .ekart--header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  vertical-align: middle;
   width: 100%;
   height: 11vh;
+}
+
+.ekart--header--nav{
+
+} */
+
+
+.ekart--header {
+  width: 100%;
+  height: 14vh;
   display: flex;
   flex-wrap: wrap;
   border-bottom: #e5e4e2 1.5px solid;
@@ -29,7 +43,7 @@
   padding-right: 30px;
 }
 
-.ekart--bottom-bar {
+.ekart--bottom--bar {
   display: flex;
 }
 
@@ -46,7 +60,7 @@
 
 .ekart--search--bar {
   padding: 0 3vh;
-}
+} 
 
 .ekart-search-box {
   width: 170px;
