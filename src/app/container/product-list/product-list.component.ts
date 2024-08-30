@@ -350,7 +350,8 @@ export class ProductListComponent {
       price: 30,
       is_in_inventory: true,
       items_left: 6,
-      imageURL: 'https://i.ytimg.com/vi/sAGzFS8kIVk/sddefault.jpg',
+      imageURL:
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbwHmcTkzXNrr3VH9XrMmeXnePfbOhdIAKRQ&s',
       slug: 'ss-hl-0135',
     },
     {
@@ -385,7 +386,7 @@ export class ProductListComponent {
       is_in_inventory: true,
       items_left: 3,
       imageURL:
-        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ufC9xd4s_YBa7TAz8TbNirEvkr2m2HcJ-A&s',
+        'https://www.hushpuppies.com.pk/cdn/shop/files/IMG_5999_a146670c-0228-4857-9863-b43f6b670679.jpg?v=1723666396',
       slug: 'ss-hl-0128',
     },
     {
@@ -402,7 +403,7 @@ export class ProductListComponent {
       is_in_inventory: false,
       items_left: 7,
       imageURL:
-        'https://shoezone.com.pk/wp-content/uploads/2021/04/HP-SS-MS-0074-BLACK-2995-4-scaled.jpg',
+        'https://shoezone.com.pk/wp-content/uploads/2021/04/HP-SS-MS-0075-RED-3295-4-scaled.jpg',
       slug: 'ss-ms-0075',
     },
     {
@@ -419,7 +420,7 @@ export class ProductListComponent {
       is_in_inventory: true,
       items_left: 4,
       imageURL:
-        'https://cdn.shopify.com/s/files/1/0016/0074/9623/products/009170000-615-SS-MS-0075-TAN_800x800.jpg?v=1570688687',
+        'https://shoezone.com.pk/wp-content/uploads/2021/04/source_0002_Layer-46-scaled-247x296.jpg',
       slug: 'ss-ms-0075',
     },
     {
@@ -436,7 +437,7 @@ export class ProductListComponent {
       is_in_inventory: false,
       items_left: 3,
       imageURL:
-        'https://cdn.shopify.com/s/files/1/0016/0074/9623/products/SS-PM-0093_1_800x800.jpg?v=1570601253',
+        'https://d2z0lqci37nukm.cloudfront.net/media/catalog/product/cache/5a319794f6868ce12b948b8c65d98dde/0/0/009590083-011201_bfzilo11n6ebapi1.jpg',
       slug: 'ss-pm-0093',
     },
     {
@@ -557,8 +558,7 @@ export class ProductListComponent {
       price: 70,
       is_in_inventory: true,
       items_left: 3,
-      imageURL:
-        "https://assets.reebok.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/7599294868804d78a1b1ab6f01718a5e_9366/Club_C_Revenge_Men's_Shoes_White_FV9877_01_standard.jpg",
+      imageURL: 'https://i.ebayimg.com/images/g/pGQAAOSwlG5i0GLk/s-l500.jpg',
       slug: 'club-c-revenge-mens',
     },
     {
