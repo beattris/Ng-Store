@@ -602,4 +602,10 @@ export class ProductListComponent {
   totalProductsOutOfStock = this.products.filter(
     (p) => p.is_in_inventory === false
   ).length;
+
+  selectedFilterRadioBtn:string = 'all';
+
+  onFilterChanged(value: string){
+    this.selectedFilterRadioBtn = value;
+  }
 }
