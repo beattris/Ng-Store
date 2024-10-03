@@ -11,7 +11,7 @@ export class SearchComponent {
   @Output() searchTextChanged: EventEmitter<string> =
     new EventEmitter<string>();
 
-  // onSearchTextChanged() {
+  // onSearchTextChanged() { 
     
   // }
 

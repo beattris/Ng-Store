@@ -18,8 +18,9 @@
   <!-- <input class="d-block mt-2" type="text" (input)="onNameChange($event)" />
   <p>Name = {{ name }}</p> -->
   <app-search (searchTextChanged)="setSearchText($event)"></app-search>
-  <app-product-list [searchText]="searchText"></app-product-list>
+  <app-product-list [searchText]="searchText" #productListComponent></app-product-list>
   <!-- <div *ngFor="let item of listOfString">
     <p>{{item}}</p>
   </div> -->
+  <app-product-detail *ngIf="productListComponent.selectedProduct"></app-product-detail>
 </div>
